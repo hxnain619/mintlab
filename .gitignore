@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/mintlab-server/node_modules
+/mintlab-server
 /.pnp
 .pnp.js
 /~
